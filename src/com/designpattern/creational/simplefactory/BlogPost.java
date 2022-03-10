@@ -3,7 +3,6 @@
  */
 package com.designpattern.creational.simplefactory;
 
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 
 /**
